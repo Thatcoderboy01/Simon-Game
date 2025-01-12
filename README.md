@@ -7,3 +7,6 @@
 
 
 ![Screenshot 2024-11-20 151011](https://github.com/user-attachments/assets/2cfc6af0-2798-4943-9269-fbf674c5bbef)
+
+
+Live Demo :- https://thatcoderboy01.github.io/Simon-Game/
